@@ -1,0 +1,17 @@
+C:\Srikanth Reddy\Code\Git\Roman\SumRomanNumerals\SumRomanNumeralsTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Srikanth Reddy\Code\Git\Roman\SumRomanNumerals\SumRomanNumeralsTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Srikanth Reddy\Code\Git\Roman\SumRomanNumerals\SumRomanNumeralsTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Srikanth Reddy\Code\Git\Roman\SumRomanNumerals\SumRomanNumeralsTests\bin\Debug\SumRomanNumeralsTests.dll
+C:\Srikanth Reddy\Code\Git\Roman\SumRomanNumerals\SumRomanNumeralsTests\bin\Debug\SumRomanNumeralsTests.pdb
+C:\Srikanth Reddy\Code\Git\Roman\SumRomanNumerals\SumRomanNumeralsTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Srikanth Reddy\Code\Git\Roman\SumRomanNumerals\SumRomanNumeralsTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Srikanth Reddy\Code\Git\Roman\SumRomanNumerals\SumRomanNumeralsTests\bin\Debug\SumRomanNumerals.exe
+C:\Srikanth Reddy\Code\Git\Roman\SumRomanNumerals\SumRomanNumeralsTests\bin\Debug\SumRomanNumerals.pdb
+C:\Srikanth Reddy\Code\Git\Roman\SumRomanNumerals\SumRomanNumeralsTests\bin\Debug\SumRomanNumerals.exe.config
+C:\Srikanth Reddy\Code\Git\Roman\SumRomanNumerals\SumRomanNumeralsTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Srikanth Reddy\Code\Git\Roman\SumRomanNumerals\SumRomanNumeralsTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Srikanth Reddy\Code\Git\Roman\SumRomanNumerals\SumRomanNumeralsTests\obj\Debug\SumRomanNumeralsTests.csproj.AssemblyReference.cache
+C:\Srikanth Reddy\Code\Git\Roman\SumRomanNumerals\SumRomanNumeralsTests\obj\Debug\SumRomanNumeralsTests.csproj.CoreCompileInputs.cache
+C:\Srikanth Reddy\Code\Git\Roman\SumRomanNumerals\SumRomanNumeralsTests\obj\Debug\SumRomanNumeralsTests.csproj.CopyComplete
+C:\Srikanth Reddy\Code\Git\Roman\SumRomanNumerals\SumRomanNumeralsTests\obj\Debug\SumRomanNumeralsTests.dll
+C:\Srikanth Reddy\Code\Git\Roman\SumRomanNumerals\SumRomanNumeralsTests\obj\Debug\SumRomanNumeralsTests.pdb
